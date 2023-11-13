@@ -1,0 +1,70 @@
+favion -the icon on the header  <link rel="">
+<a href="">link tag</a>
+
+tables
+<table>
+  <tr>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+      
+    </td>
+  </tr>
+</table>
+
+list 
+-unordered list
+<ul>
+  <li></li>
+</ul>
+-ordered list ie 1,2,3,4 etc
+<ol>
+  <li></li>
+</ol>
+
+-description list for showing more description
+<dl>
+  <dt>name 1</dt>
+  <dd>this is the description</dd>
+</dl>
+
+block and inline elements 
+block eg <div id=""/class="">
+  starts at begining and takes the whole line
+</div>
+inline eg <b>tag doesn't occupy more space than it needs</b>
+
+
+iframes to view a webpage inside a webpage
+form to collect information from user
+<form action="link"   where to send the data>
+  <label for="phoneNo">phone number</label>
+  <input type="number" name="phoneNo" id="phoneNo">
+  <label for="username">name</label>
+  <input type="text" name="username" id="username">
+  <label for="userAge">12-23</label>
+  <input type="checkbox" name="userAge" id="userAge" value="12-23">
+</form>
+input types 
+-text
+-number
+-checkbox
+-radiobutton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
